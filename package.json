@@ -1,0 +1,27 @@
+{
+  "name": "ng2-modalboxmessage",
+  "version": "1.0.0",
+  "description": "Angular 2 Modal Box that simply display a message with customizable style",
+  "main": "modalboxmessage.js",
+  "scripts": {
+    "debug": "tsc --project ./tsconfig.debug.json",
+    "build": "tsc --project ./tsconfig.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuigiSenzamici/ng2-ModalBoxMessage.git"
+  },
+  "keywords": [
+    "Angular2",
+    "modal",
+    "box",
+    "message"
+  ],
+  "author": "Luigi Senzamici (luigisenzamici@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LuigiSenzamici/ng2-ModalBoxMessage/issues"
+  },
+  "homepage": "https://github.com/LuigiSenzamici/ng2-ModalBoxMessage#readme"
+}
